@@ -1,0 +1,1 @@
+# azure-sql-key-vault-managed-identity
