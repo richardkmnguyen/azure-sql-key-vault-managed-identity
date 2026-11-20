@@ -1,4 +1,4 @@
-Watch me explain this lab: [LoomLink](ADD-LOOM-LINK-HERE)
+Watch me explain this lab: [LoomLink](https://www.loom.com/share/f6143e634aec479dba9c9790ec38575e)
 
 # azure-sql-key-vault-managed-identity
 
